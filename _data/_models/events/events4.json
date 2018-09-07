@@ -1,0 +1,59 @@
+{
+  "event_listing_localized": {
+    "en": [
+      {
+        "event_name": "One"
+      },
+      {
+        "event_name": "Two"
+      }
+    ],
+    "zh": [
+      {
+        "event_name": "Ein"
+      },
+      {
+        "event_name": "Shvai",
+        "event_heading_id": "123",
+        "event_collapse_id": "123",
+        "event_detail": "123",
+        "start_day": "Everyday",
+        "end_day": "Thursday",
+        "from_time": "123",
+        "to_time": "123",
+        "am_or_pm": "PM",
+        "event_contact": "<p>Test</p>",
+        "event_booking_id": "123"
+      }
+    ]
+  },
+  "category_id": "abc",
+  "category_image": {
+    "name": "Kitchen",
+    "file_name": "Kitchen.jpg",
+    "url": "//cdn.traveltripper.io/site-assets/357_906_18210/media/2018-09-06-020924/Kitchen.jpg",
+    "tags": "",
+    "description": "",
+    "date_added": "2018-09-06-020924",
+    "file_type": "image/jpeg",
+    "width": 1152,
+    "height": 700,
+    "file_size": 199759,
+    "url_large": "//cdn.traveltripper.io/site-assets/357_906_18210/media/2018-09-06-020924/large_Kitchen.jpg",
+    "url_medium": "//cdn.traveltripper.io/site-assets/357_906_18210/media/2018-09-06-020924/medium_Kitchen.jpg",
+    "url_small": "//cdn.traveltripper.io/site-assets/357_906_18210/media/2018-09-06-020924/small_Kitchen.jpg",
+    "url_xsmall": "//cdn.traveltripper.io/site-assets/357_906_18210/media/2018-09-06-020924/xsmall_Kitchen.jpg",
+    "url_thumb": "//cdn.traveltripper.io/site-assets/357_906_18210/media/2018-09-06-020924/thumb_Kitchen.jpg",
+    "git_file_name": "_assets/image_data/Kitchen.json",
+    "path": "//cdn.traveltripper.io/site-assets/357_906_18210/media/2018-09-06-020924/Kitchen.jpg",
+    "alt": "Kitchen",
+    "caption": ""
+  },
+  "sort_order": 1,
+  "category_title_localized": {
+    "zh": "Abc"
+  },
+  "category_intro_localized": {
+    "zh": "Intro"
+  }
+}
